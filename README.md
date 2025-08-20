@@ -1,4 +1,4 @@
-# pea--project1
+# Placement Eligibility App--project1
 Placement eligibility app
 This project is a streamlit app of students and their data. 
 It refers to their personal data, skills, placements and their programming practice skills.
